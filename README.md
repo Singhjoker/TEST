@@ -1,4 +1,4 @@
-<img src="hacker3.gif" />
+<img src="black-myth-wukong-7680x4320-18173.jpg" />
 
 # Machine Learning
 # 👋 Hi, I'm Deepankar singh
