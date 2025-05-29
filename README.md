@@ -1,16 +1,19 @@
-🚀 Data Scientist | AI Enthusiast | Problem Solver
-🔍 Turning data into decisions with Python, ML & a lot of coffee ☕
+<img src="hacker3.gif" />
 
-📊 Passionate about uncovering insights from messy data
-🧠 Skilled in:
-• Python • Pandas • NumPy • Scikit-learn • TensorFlow
-• SQL • Power BI • Tableau • Matplotlib & Seaborn
-• Data Cleaning • Feature Engineering • Predictive Modeling
+# Machine Learning
+# 👋 Hi, I'm Manish
+A passionate Data Scientist with expertise in Python, Machine Learning, and Data Visualization.
 
-📚 Always learning something new — currently exploring Deep Learning & MLOps!
-💡 I love building models, visualizing data, and telling impactful stories with numbers.
+## 🔧 Skills
+- Python, Pandas, NumPy, Scikit-learn
+- Data Visualization: Matplotlib, Seaborn, Plotly
+- SQL, Tableau, Power BI
 
-🌐 Connect with me:
-linkedin : https://www.linkedin.com/in/deepankar-singh-9399b8165/
+## 📈 Portfolio Projects
+- [Customer Churn Prediction](https://github.com/yourname/churn-prediction)
+- [NBA Player Stats Analysis](https://github.com/yourname/nba-data-analysis)
+- [Covid-19 Dashboard](https://github.com/yourname/covid-dashboard)
 
-Email: deepankar157@gmail.com
+## 📫 Contact
+- LinkedIn: [your profile](https://www.linkedin.com/in/manish-kumar-b7b25755/)
+- Email: manish@kryptora.com 
