@@ -11,5 +11,6 @@
 💡 I love building models, visualizing data, and telling impactful stories with numbers.
 
 🌐 Connect with me:
-https://www.linkedin.com/in/deepankar-singh-9399b8165/
-deepankar157@gmail.com
+linkedin : https://www.linkedin.com/in/deepankar-singh-9399b8165/
+
+Email: deepankar157@gmail.com
