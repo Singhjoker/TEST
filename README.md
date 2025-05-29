@@ -1,7 +1,7 @@
 <img src="hacker3.gif" />
 
 # Machine Learning
-# 👋 Hi, I'm Manish
+# 👋 Hi, I'm Deepankar singh
 A passionate Data Scientist with expertise in Python, Machine Learning, and Data Visualization.
 
 ## 🔧 Skills
@@ -15,5 +15,5 @@ A passionate Data Scientist with expertise in Python, Machine Learning, and Data
 - [Covid-19 Dashboard](https://github.com/yourname/covid-dashboard)
 
 ## 📫 Contact
-- LinkedIn: [your profile](https://www.linkedin.com/in/manish-kumar-b7b25755/)
-- Email: manish@kryptora.com 
+- LinkedIn: https://www.linkedin.com/in/deepankar-singh-9399b8165/
+- Email: deepankar157@gmail.com 
